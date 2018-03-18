@@ -1,6 +1,6 @@
 # MyAngularApp2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+This project was generated with [Angular CLI].Branch updated as of march 3rd 2018(https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
 
